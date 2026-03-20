@@ -1,0 +1,2 @@
+Upload Chest X-Ray,Prediction,timestamp
+.gradio\flagged\Upload Chest X-Ray\31f80fa577071da6d0ba\Tuberculosis-2.png,"{""label"": ""Normal"", ""confidences"": [{""label"": ""Normal"", ""confidence"": 0.6187018156051636}, {""label"": ""Tuberculosis"", ""confidence"": 0.3812981843948364}]}",2025-12-09 19:35:07.578390
