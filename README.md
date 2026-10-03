@@ -1,4 +1,4 @@
-# 🫁 TB Chest Radiography — Tuberculosis Detection from Chest X-Rays
+# 🫁 Tuberculosis Detection System
 
 A deep learning project that classifies chest X-ray images as **Normal** or **Tuberculosis** using a fine-tuned **ResNet50** convolutional neural network, with **Grad-CAM** visualizations to highlight the lung regions driving each prediction. Includes an interactive web demo built with **Gradio**.
 
